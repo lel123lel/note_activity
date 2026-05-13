@@ -20,7 +20,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.lel123lel.NoteApp"
+      "package": "com.lel123lel.noteapp"
     },
     "web": {
       "output": "static",
